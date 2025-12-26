@@ -29,6 +29,7 @@ Publish the website in the given URL.
 Figma
 
 # CODE:
+~~~
 home.html
 <!DOCTYPE html>
 <html lang="en">
@@ -134,6 +135,7 @@ contact.html
     </div>
 </body>
 </html>
+~~~
 
 
 # OUTPUT:
